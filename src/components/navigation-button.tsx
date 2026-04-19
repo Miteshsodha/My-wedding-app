@@ -93,7 +93,7 @@ export function NavigationButton({
             initial={NAVIGATION_ANIMATIONS.background.initial}
             animate={{ scale: 1, opacity: 1 }}
             exit={NAVIGATION_ANIMATIONS.background.exit}
-            transition={NAVIGATION_ANIMATIONS.background.transition}
+          
             className="absolute -bottom-0.5 sm:-bottom-1 left-1/2 -translate-x-1/2 w-0.5 sm:w-1 h-0.5 sm:h-1 bg-white rounded-full shadow-lg z-10"
           >
             <motion.div
