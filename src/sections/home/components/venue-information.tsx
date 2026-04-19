@@ -4,7 +4,7 @@ import type { WeddingConfigType } from '@/types';
 import { motion } from 'motion/react';
 import { useInView } from 'react-intersection-observer';
 import { useTranslation } from 'react-i18next';
-import { generateMapLink } from '@/lib/wedding-utils';
+
 
 interface VenueInformationProps {
   venue: WeddingConfigType['venue'];
