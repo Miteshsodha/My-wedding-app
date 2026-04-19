@@ -38,7 +38,7 @@ export const HeroSection = ({
               className="mb-6 sm:mb-8"
             >
               <div className="text-sm sm:text-base md:text-lg lg:text-xl text-gray-600 mb-4 font-medium">
-                {t('Welcome To')}
+                {'Welcome To'}
               </div>
               <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-serif text-gray-800 mb-6 leading-tight">
                 Our
