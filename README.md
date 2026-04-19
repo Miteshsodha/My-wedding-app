@@ -1,2 +1,2 @@
-# My-wadding-app
+# My-wedding-app
 My brother's Merrage
