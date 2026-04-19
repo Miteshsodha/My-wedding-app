@@ -10,8 +10,7 @@ import {
   CountdownTimer,
   VenueInformation,
   EventSchedule,
-  RSVP,
-  GalleryPreview,
+  
   ClosingMessage,
   FloatingNavigation,
   NavigationFAB,
