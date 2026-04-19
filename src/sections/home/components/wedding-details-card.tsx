@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 import {
   formatWeddingTime,
   generateGoogleCalendarLink,
-  generateMapLink,
+  
 } from '@/lib/wedding-utils';
 import type { WeddingConfigType } from '@/types';
 import { useTranslation } from 'react-i18next';
