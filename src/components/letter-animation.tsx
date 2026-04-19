@@ -83,7 +83,7 @@ export const LetterAnimation = ({
               {toName ? (
                 <>
                   
-                  <span className="font-medium text-rose-600">Jaydip & Daxa's Wedding</span>
+                  <span className="font-medium text-rose-600">Jaydip&Daxa Wedding</span>
                   <br />
                   {t('letter.you-are-invited')}
                 </>
