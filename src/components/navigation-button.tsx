@@ -97,7 +97,7 @@ export function NavigationButton({
           >
             <motion.div
               animate={NAVIGATION_ANIMATIONS.pulse.animate}
-              transition={NAVIGATION_ANIMATIONS.pulse.transition}
+              
               className="w-full h-full bg-white rounded-full"
             />
           </motion.div>
